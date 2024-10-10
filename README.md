@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This project focuses on performing sentiment analysis on a big data set of airline tweets using a Long Short-Term Memory (LSTM) model. The dataset contains thousands of tweets labeled with sentiments such as positive, neutral, and negative. The data was preprocessed by removing unnecessary text elements like mentions and URLs, followed by tokenization and padding to prepare the inputs for the LSTM model. The model was built using TensorFlow and Keras, trained to classify tweets based on sentiment and utilized word embeddings for effective text representation. During the evaluation phase, the model's performance was assessed using a confusion matrix, classification report, and Receiver Operating Characteristic (ROC) curves. The results indicated that the model was able to identify negative sentiments with reasonable accuracy but struggled with classifying positive and neutral sentiments, as reflected in the precision and recall scores. Despite the challenges in balancing classes, this project demonstrates the potential of using deep learning models like LSTM for analyzing large-scale text data and extracting insights into customer sentiment.
+This project focuses on performing sentiment analysis on a big data set of airline tweets using a Long Short-Term Memory (LSTM) model. The dataset contains thousands of tweets labeled with sentiments such as positive, neutral, and negative. The data was preprocessed by removing unnecessary text elements like mentions and URLs, followed by tokenization and padding to prepare the inputs for the LSTM model. The model was built using TensorFlow and Keras, trained to classify tweets based on sentiment and utilized word embeddings for effective text representation. During the evaluation phase, the model's performance was assessed using a confusion matrix, classification report, and Receiver Operating Characteristic (ROC) curves. NLP is challenging to process due to the complexity and nuances of human language, such as context and ambiguity. Therefore, the results indicated that the model was able to identify negative sentiments with reasonable accuracy; however, struggled with classifying positive and neutral sentiments, as reflected in the precision and recall scores. Despite the challenges in balancing classes, this project demonstrates the potential of using deep learning models like LSTM for analyzing large-scale text data and extracting insights into customer sentiment.
 <br />
 <br />
 
@@ -17,6 +17,6 @@ This project focuses on performing sentiment analysis on a big data set of airli
 
 <h2>Program Walk-Through:</h2>
 
-The project is attached as a PDF file for you to review, explanations are hashtagged in blue: <br/>
+The project is attached as a PDF file for you to review; explanations are hashtagged in blue. <br/>
 You can [view the PDF file here](Sentiment%20Analysis.pdf).
 <br />
