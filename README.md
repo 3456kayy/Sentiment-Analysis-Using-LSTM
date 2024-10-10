@@ -18,5 +18,5 @@ This project focuses on performing sentiment analysis on a big data set of airli
 <h2>Program Walk-Through:</h2>
 
 The project is attached as a PDF file for you to review, explanations are hashtagged in blue: <br/>
-You can [view the PDF file here](Sentiment%20with%20Analysis.pdf).
+You can [view the PDF file here](Sentiment%20Analysis.pdf).
 <br />
